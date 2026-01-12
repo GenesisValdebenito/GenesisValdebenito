@@ -20,13 +20,8 @@ Mi aprendizaje combina formación académica con desarrollo de proyectos reales,
   Aplicación con backend en Spring Boot y frontend en React.  
   Incluye gestión de usuarios, pedidos a través de carro de compras y lógica de negocio.
 
-- **API Calendar (Kotlin)**  
-  API REST desarrollada en Kotlin, enfocada en estructura clara y manejo de datos.
-
 - **Portafolio Web**  
   Sitio estático para presentar mi perfil y proyectos que realice en mi Certficación "Introducción al Desarrollo Web" - Desafío Latam.
-
-*(Más proyectos disponibles en mis repositorios)*
 
 ---
 
