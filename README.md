@@ -28,3 +28,7 @@ Mi aprendizaje combina formación académica con desarrollo de proyectos reales,
 ### 📫 Contacto
 - **LinkedIn:** www.linkedin.com/in/genesis-valdebenito-quintupil
 - **Email:** g.valdebenitoquintupil@gmail.com
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
