@@ -13,5 +13,5 @@ Estudiante de Ingeniería en Informática en Duoc UC (3er año), con enfoque en 
 - **Email:** g.valdebenitoquintupil@gmail.com
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="C:/Users/Usuario/Downloads/github-user-contribution.svgg">
 </p>
