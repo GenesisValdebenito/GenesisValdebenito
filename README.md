@@ -1,12 +1,29 @@
 # Génesis Valdebenito 👩‍💻
+Estudiante de Ingeniería en Informática en Duoc UC (3er año) y **Desarrolladora Fullstack en práctica**. Mi enfoque está en el desarrollo de software y aplicaciones integrales, construyendo soluciones claras, estructuradas y sostenibles. Aplico buenas prácticas tanto en backend como en frontend, combinando mi formación académica con proyectos reales que exploran el diseño de APIs, lógica de negocio y experiencias de usuario optimizadas.
 
-Estudiante de Ingeniería en Informática en Duoc UC (3er año), con enfoque en **Desarrollo de Software y aplicaciones full-stack**. Me interesa construir soluciones claras, bien estructuradas y sostenibles, aplicando buenas prácticas tanto en backend como en frontend. Mi aprendizaje combina formación académica con desarrollo de proyectos reales, donde exploro diseño de APIs, lógica de negocio y experiencias de usuario.
+### 🛠️ Tecnologías y Stack Técnico
 
-### 🛠️ Tecnologías y enfoque
-- **Backend:** Kotlin, Java, Spring Boot
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Bases de datos:** SQL
-- **Intereses técnicos:** Arquitectura de software, APIs REST, separación frontend/backend, buenas prácticas
+#### ⚙️ Backend y Frameworks
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-000?style=for-the-badge&logo=springboot&logoColor=6DB33F) ![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Kotlin](https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![NodeJS](https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=node.js&logoColor=339933) ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=3776AB)
+
+#### 🗄️ Bases de Datos y Ecosistema Oracle
+![PL/SQL](https://img.shields.io/badge/PL/SQL-000?style=for-the-badge&logo=oracle&logoColor=F80000) ![SQL Developer](https://img.shields.io/badge/SQL_DEVELOPER-000?style=for-the-badge&logo=oracle&logoColor=F80000) ![Oracle APEX](https://img.shields.io/badge/APEX_REPORTS-000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MONGODB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+
+#### 🛠️ Herramientas de Desarrollo y DevOps
+![Postman](https://img.shields.io/badge/POSTMAN-000?style=for-the-badge&logo=postman&logoColor=FF6C37) ![XAMPP](https://img.shields.io/badge/XAMPP-000?style=for-the-badge&logo=xampp&logoColor=FB8C00) ![Google Colab](https://img.shields.io/badge/COLAB-000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00) ![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white) ![Apache Maven](https://img.shields.io/badge/MAVEN-000?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
+
+#### 🎨 Frontend y Diseño
+![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Figma](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+#### 📋 Gestión y Organización
+![Notion](https://img.shields.io/badge/NOTION-000?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/JIRA-000?style=for-the-badge&logo=jira&logoColor=0052CC) ![Trello](https://img.shields.io/badge/TRELLO-000?style=for-the-badge&logo=trello&logoColor=007AC1) ![Canva](https://img.shields.io/badge/CANVA-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
+### 🎯 Intereses Técnicos
+* **Arquitectura de Software:** Diseño de sistemas escalables y mantenibles.
+* **APIs REST:** Desarrollo y consumo eficiente de servicios web.
+* **Fullstack Mindset:** Integración fluida entre la lógica del servidor y la interfaz de usuario.
+* **Buenas Prácticas:** Clean Code, control de versiones y metodologías ágiles.
+
 
 <h3 align="center"> 📫 Contacto </br> </h3>
 <p align="center">
@@ -29,11 +46,10 @@ Estudiante de Ingeniería en Informática en Duoc UC (3er año), con enfoque en 
   <a href="ENCUENTRAME_EN_SLACK">
     <img src="https://img.shields.io/badge/SLACK-000?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" />
   </a>
-
+  
   <a href="TU_USUARIO_DISCORD">
     <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
-</p>
 
 <p align="center">
 <img src="https://github.com/GenesisValdebenito/GenesisValdebenito/blob/snk/github-user-contribution.svg">
