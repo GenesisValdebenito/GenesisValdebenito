@@ -8,7 +8,7 @@ Estudiante de Ingeniería en Informática en Duoc UC (3er año), con enfoque en 
 - **Bases de datos:** SQL
 - **Intereses técnicos:** Arquitectura de software, APIs REST, separación frontend/backend, buenas prácticas
 
-### 📫 Contacto
+<h3 align="center"> 📫 Contacto </br> </h3>
 <p align="center">
   <a href="https://emprendimiento-creativo.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/badge/EC--GVQ-000?style=for-the-badge&logo=monos&logoColor=white" alt="EC-GVQ" />
