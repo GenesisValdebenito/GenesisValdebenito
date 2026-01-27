@@ -13,5 +13,5 @@ Estudiante de Ingeniería en Informática en Duoc UC (3er año), con enfoque en 
 - **Email:** g.valdebenitoquintupil@gmail.com
 
 <p align="center">
-<img src="https://github.com/GenesisValdebenito/GenesisValdebenito/blame/snk/github-user-contribution.svg">
+<img src="https://github.com/GenesisValdebenito/GenesisValdebenito/blob/snk/github-user-contribution.svg">
 </p>
