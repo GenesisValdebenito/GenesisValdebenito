@@ -42,10 +42,6 @@ Estudiante de Ingeniería en Informática en Duoc UC (3er año) y **Desarrollado
   <a href="mailto:g.valdebenitoquintupil@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-
-  <a href="ENCUENTRAME_EN_SLACK">
-    <img src="https://img.shields.io/badge/SLACK-000?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" />
-  </a>
   
   <a href="TU_USUARIO_DISCORD">
     <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
