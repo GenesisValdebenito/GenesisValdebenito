@@ -1,5 +1,5 @@
 # Génesis Valdebenito 👩‍💻
-Estudiante de Ingeniería en Informática en Duoc UC de quinto año y **Desarrolladora Fullstack en práctica**. Mi enfoque está en el desarrollo de software y aplicaciones integrales, construyendo soluciones claras, estructuradas y sostenibles. Aplico buenas prácticas tanto en backend como en frontend, combinando mi formación académica con proyectos reales que exploran el diseño de APIs, lógica de negocio y experiencias de usuario optimizadas.
+Estudiante de Ingeniería en Informática en Duoc UC (3er año) y **Desarrolladora Fullstack en práctica**. Mi enfoque está en el desarrollo de software y aplicaciones integrales, construyendo soluciones claras, estructuradas y sostenibles. Aplico buenas prácticas tanto en backend como en frontend, combinando mi formación académica con proyectos reales que exploran el diseño de APIs, lógica de negocio y experiencias de usuario optimizadas.
 
 ### 🛠️ Tecnologías y Stack Técnico
 
