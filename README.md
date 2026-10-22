@@ -1,52 +1,81 @@
-# Génesis Valdebenito 👩‍💻
-Estudiante de Ingeniería en Informática en Duoc UC (3er año) y **Desarrolladora Fullstack en práctica**. Mi enfoque está en el desarrollo de software y aplicaciones integrales, construyendo soluciones claras, estructuradas y sostenibles. Aplico buenas prácticas tanto en backend como en frontend, combinando mi formación académica con proyectos reales que exploran el diseño de APIs, lógica de negocio y experiencias de usuario optimizadas.
+<h2 align="center">🛠️ Génesis Valdebenito | Desarrolladora Fullstack Trainee</h2>
 
-### 🛠️ Tecnologías y Stack Técnico
+Construyo software de punta a punta: desde el modelo de datos hasta la interfaz, pasando por el despliegue en la nube. Estudiante de Ingeniería en Informática en Duoc UC. Como desarrolladora fullstack, mi objetivo principal es aportar al desarrollo de soluciones web mediante la construcción de aplicaciones claras, bien estructuradas y sostenibles, la implementación de buenas prácticas tanto en el frontend como en el backend y la garantía de un producto funcional y de calidad. Mi objetivo es crear un entorno de trabajo colaborativo y productivo mediante la comunicación con los miembros del equipo, el cumplimiento de metodologías ágiles y la mejora continua del código.
 
-#### ⚙️ Backend y Frameworks
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-000?style=for-the-badge&logo=springboot&logoColor=6DB33F) ![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Kotlin](https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![NodeJS](https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=node.js&logoColor=339933) ![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=3776AB)
-
-#### 🗄️ Bases de Datos y Ecosistema Oracle
-![PL/SQL](https://img.shields.io/badge/PL/SQL-000?style=for-the-badge&logo=oracle&logoColor=F80000) ![SQL Developer](https://img.shields.io/badge/SQL_DEVELOPER-000?style=for-the-badge&logo=oracle&logoColor=F80000) ![Oracle APEX](https://img.shields.io/badge/APEX_REPORTS-000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MONGODB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-
-#### 🛠️ Herramientas de Desarrollo y DevOps
-![Postman](https://img.shields.io/badge/POSTMAN-000?style=for-the-badge&logo=postman&logoColor=FF6C37) ![XAMPP](https://img.shields.io/badge/XAMPP-000?style=for-the-badge&logo=xampp&logoColor=FB8C00) ![Google Colab](https://img.shields.io/badge/COLAB-000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00) ![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white) ![Apache Maven](https://img.shields.io/badge/MAVEN-000?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
-
-#### 🎨 Frontend y Diseño
-![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Figma](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-#### 📋 Gestión y Organización
-![Notion](https://img.shields.io/badge/NOTION-000?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/JIRA-000?style=for-the-badge&logo=jira&logoColor=0052CC) ![Trello](https://img.shields.io/badge/TRELLO-000?style=for-the-badge&logo=trello&logoColor=007AC1) ![Canva](https://img.shields.io/badge/CANVA-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
-
-### 🎯 Intereses Técnicos
-* **Arquitectura de Software:** Diseño de sistemas escalables y mantenibles.
-* **APIs REST:** Desarrollo y consumo eficiente de servicios web.
-* **Fullstack Mindset:** Integración fluida entre la lógica del servidor y la interfaz de usuario.
-* **Buenas Prácticas:** Clean Code, control de versiones y metodologías ágiles.
-
-
-<h3 align="center"> 📫 Contacto </br> </h3>
 <p align="center">
-  <a href="https://emprendimiento-creativo.my.canva.site/" target="_blank">
-    <img src="https://img.shields.io/badge/EC--GVQ-000?style=for-the-badge&logo=monos&logoColor=white" alt="EC-GVQ" />
+  <a href="https://portafolio-genesisvaldebenito.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Portfolio" />
   </a>
-
-  <a href="https://littlebubble14.github.io/CV-Portafolio/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=F7C427" alt="Portfolio" />
-  </a>
-
   <a href="http://www.linkedin.com/in/genesis-valdebenito-quintupil" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-
   <a href="mailto:g.valdebenitoquintupil@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  
-  <a href="TU_USUARIO_DISCORD">
-    <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+</p>
+
+<h2 align="center">🛠️ Tecnologías y Stack Técnico</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/SPRING_BOOT-000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/KOTLIN-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/MAVEN-000?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
+  <img src="https://img.shields.io/badge/ANGULAR-000?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/AZURE-000?style=for-the-badge&logo=microsoftazure&logoColor=0089D6" />
+  <img src="https://img.shields.io/badge/ENTRA_ID-000?style=for-the-badge&logo=microsoft&logoColor=00A4EF" />
+  <img src="https://img.shields.io/badge/LLM_%26_AI-000?style=for-the-badge&logo=openai&logoColor=412991" />
+  <img src="https://img.shields.io/badge/PL/SQL-000?style=for-the-badge&logo=oracle&logoColor=F80000" />
+  <img src="https://img.shields.io/badge/SQL_DEVELOPER-000?style=for-the-badge&logo=oracle&logoColor=F80000" />
+  <img src="https://img.shields.io/badge/APEX_REPORTS-000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MONGODB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  <img src="https://img.shields.io/badge/POSTMAN-000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-000?style=for-the-badge&logo=jira&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/NOTION-000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Angular;Azure+%2B+Entra+ID+%2B+LLMs" alt="Typing SVG" />
   </a>
+</h3>
+
+<h2 align="center">
+  <font color="#00E5FF">🎯 Intereses</font> <font color="#A855F7">Técnicos</font>
+</h2>
+
+<table border="0" cellspacing="0" cellpadding="8" align="center">
+  <tr>
+    <td width="25%" valign="top">
+      <h3><font color="#00E5FF">☁️ Cloud & Arquitectura</font></h3>
+      <p>Diseño de sistemas escalables, servicios cloud y gestión de identidad (Azure / Entra ID).</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3><font color="#A855F7">⚡ APIs & Microservicios</font></h3>
+      <p>Desarrollo, securización y consumo eficiente de servicios web.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3><font color="#00E5FF">🤖 IA Aplicada</font></h3>
+      <p>Integración de LLMs en flujos de trabajo y desarrollo de aplicaciones inteligentes.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3><font color="#A855F7">💻 Fullstack Mindset</font></h3>
+      <p>Integración fluida entre servidor, datos y frontend (Angular / React).</p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
-<img src="https://github.com/GenesisValdebenito/GenesisValdebenito/blob/snk/github-user-contribution.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=GenesisValdebenito&show_icons=true&title_color=00E5FF&icon_color=00E5FF&text_color=A855F7&bg_color=0D1117&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenesisValdebenito&layout=compact&title_color=00E5FF&text_color=A855F7&bg_color=0D1117&hide_border=true" width="48%" />
 </p>
