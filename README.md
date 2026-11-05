@@ -73,9 +73,6 @@ Construyo software de punta a punta: desde el modelo de datos hasta la interfaz,
   </tr>
 </table>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GenesisValdebenito&show_icons=true&title_color=00E5FF&icon_color=00E5FF&text_color=A855F7&bg_color=0D1117&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenesisValdebenito&layout=compact&title_color=00E5FF&text_color=A855F7&bg_color=0D1117&hide_border=true" width="48%" />
+  <img src="https://github.com/GenesisValdebenito/GenesisValdebenito/blob/snk/github-user-contribution.svg">
 </p>
